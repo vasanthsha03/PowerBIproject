@@ -1,4 +1,4 @@
-# 🚲 Bike Sales Analysis Dashboard - Power BI
+# 🚲 Bicycle Sales Analysis Dashboard - Power BI
 
 ## 📊 Business Problem
 This project analyzes bicycle sales performance to evaluate bike sales performance and uncover key insights that support data-driven business decisions.
