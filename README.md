@@ -1,5 +1,8 @@
 # 🚲 Bicycle Sales Analysis Dashboard - Power BI
 
+## 📷 Dashboard Preview
+![Bike Sales Dashboard](Screenshot%202026-01-27%20102002.png)
+
 ## 📊 Business Problem
 This project analyzes bicycle sales performance to evaluate bike sales performance and uncover key insights that support data-driven business decisions.
 
@@ -24,6 +27,4 @@ This project analyzes bicycle sales performance to evaluate bike sales performan
 - Hybrid Bike ($113M) generated the highest revenue.
 - BMX and Cruiser (~$112M each) closely follow.
 - These three models dominate overall sales contribution.
-
-## 📷 Dashboard Preview
-![Bike Sales Dashboard](Screenshot%202026-01-27%20102002.png)
+- 
