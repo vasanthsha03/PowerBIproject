@@ -1,6 +1,13 @@
 # 🏆 Sports Footwear Sales Analysis Dashboard
 
-### A professional and interactive Power BI Dashboard designed to analyze global sports footwear sales performance, customer behavior, brand contribution, and revenue trends.
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="DIMAGE.png" width="900">
+</p>
+
+
+### A interactive Power BI Dashboard designed to analyze global sports footwear sales performance, customer behavior, brand contribution, and revenue trends.
 
 ### This dashboard provides actionable insights for business decision-making through advanced data visualization and KPI tracking.
 
